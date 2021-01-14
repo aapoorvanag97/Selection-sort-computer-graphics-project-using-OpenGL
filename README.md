@@ -1,5 +1,13 @@
 # Selection-sort-computer-graphics-project-using-OpenGL
 
+
+
+REDA COMPUTER GRAPHICS PROJECT.Pdf FIRST for a better understanding of the project.
+
+
+
+
+
 ALGORITHM:
 
 Selection-Sort (A)
